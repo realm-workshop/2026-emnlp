@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "realm-workshop/2026",
+    "data-repo": "realm-workshop/2026-emnlp",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
