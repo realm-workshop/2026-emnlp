@@ -23,3 +23,55 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Fix whitespace rendering between social icons
+.row.ml-1.mr-1.p-0 {
+  font-size: 0; // Collapses whitespace text nodes
+
+  > div {
+    font-size: 1rem; // Restore font size for icon containers
+    margin-right: 0.3rem; // Add spacing between icons
+
+    &:last-child {
+      margin-right: 0; // Remove margin from last icon
+    }
+  }
+}
+
+// Add vertical spacing between sections
+h2, h3 {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+// First heading on page doesn't need extra top margin
+.post-content > h2:first-child,
+.post-content > h3:first-child {
+  margin-top: 1rem;
+}
+
+// Justified text for content pages
+.post article p,
+.clearfix p,
+.post-content p {
+  text-align: justify;
+}
+
+// Organizer and advisor card image sizes
+.card-item .card-img {
+  img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+}
+
+// Organizers - smaller images
+#organizers .card-item .card-img {
+  max-width: 135px;
+}
+
+// Advisors - larger images
+#advisors .card-item .card-img {
+  max-width: 180px;
+}

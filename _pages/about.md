@@ -1,34 +1,63 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false # crops the image to make it circular
+#   more_info: >
+#     <p>555 your office number</p>
+#     <p>123 your address street</p>
+#     <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Autonomous agents are rapidly moving from research ideas to real-world applications. [OpenClaw](https://openclaw.ai/) and [Cowork](https://claude.com/product/cowork) are recent examples that show how agents have started to enter everyday use.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+This rapid progress in agents has sparked a wave of research across diverse directions: tool use ([Toolformer](https://arxiv.org/abs/2302.04761); [τ-bench](https://arxiv.org/abs/2406.12045); [LiveMCPBench](https://icip-cas.github.io/LiveMCPBench/)), interacting with user interfaces ([OSWorld](https://os-world.github.io/); [OpenCUA](https://opencua.xlang.ai/); [WebArena](https://webarena.dev/); [WorkArena](https://servicenow.github.io/WorkArena/)), external or private knowledge sources ([RAG](https://arxiv.org/abs/2005.11401); [RAS](https://arxiv.org/abs/2502.10996); [Interact-RAG](https://arxiv.org/abs/2510.27566); [Agentic RAG](https://arxiv.org/abs/2501.09136)), memory and world models ([MemAgent](https://arxiv.org/abs/2507.02259); [World-in-World](https://arxiv.org/abs/2510.18135)), planning ([ReAct](https://arxiv.org/abs/2210.03629); [Reflexion](https://arxiv.org/abs/2303.11366); [Hinter](https://arxiv.org/abs/2510.04373)), self-improvement ([Self-Refine](https://arxiv.org/abs/2303.17651); [TT-SI](https://arxiv.org/abs/2510.07841); [EvolveR](https://arxiv.org/abs/2510.16079)), and safety and security ([RedTeaming](https://arxiv.org/abs/2202.03286); [Data Leakage](https://arxiv.org/abs/2012.07805); [AgentDojo](https://arxiv.org/abs/2406.13352); [RedTeamCUA](https://arxiv.org/abs/2505.21936); [ARTEMIS](https://arxiv.org/abs/2512.09882); [HITL Security](https://arxiv.org/abs/2602.11416)). Together, these advances allow agents to tackle tasks that would have seemed out of reach just a few years ago.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Yet, this level of complexity introduces a broader challenge: turning promising agent capabilities into dependable systems. Beyond scaling, agents must become more reliable on long-horizon tasks, be evaluated in realistic settings, integrate planning, memory, and tools effectively, and interact safely with external environments.
+
+In light of these challenges and opportunities, our workshop aims to bring the *ACL community together to analyze the current landscape of LLM agents and its key challenges, while envisioning future directions. The success of the [first edition](https://realm-workshop.github.io/2025-acl) edition at ACL 2025 motivated us to continue the workshop at **EMNLP 2026**.
+
+### Venue
+
+The REALM workshop will take place at the 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**), in **Budapest, Hungary 🇭🇺**.
+The conference will take place from **October 24-29th, 2026**.
+
+**Stay tuned as more details will be added soon...**
+{: style="font-size: 1.2rem;"}
+
+
+### Invited Speakers and Panelists
+
+TBD
+
+### Questions
+If you have any questions, please do not hesitate to contact us at <a href="mailto:realm-workshop@googlegroups.com">realm-workshop@googlegroups.com</a>.
+
+### Organizers
+{% include organizers.liquid center=true %}
+
+#### Advisory Board
+{% include advisors.liquid center=true %}
+
+
+### Past Workshop
+
+Our [first workshop](https://realm-workshop.github.io/) was held at [ACL 2025](https://2025.aclweb.org/) in Vienna, Austria 🇦🇹: [Recordings](https://realm-workshop.github.io/recording/) • [Accepted Papers](https://realm-workshop.github.io/accepted_papers/) • [Proceedings](https://aclanthology.org/volumes/2025.realm-1/)
