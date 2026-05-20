@@ -60,4 +60,4 @@ If you have any questions, please do not hesitate to contact us at <a href="mail
 
 ### Past Workshop
 
-Our [first workshop](https://realm-workshop.github.io/) was held at [ACL 2025](https://2025.aclweb.org/) in Vienna, Austria 🇦🇹: [Recordings](https://realm-workshop.github.io/recording/) • [Accepted Papers](https://realm-workshop.github.io/accepted_papers/) • [Proceedings](https://aclanthology.org/volumes/2025.realm-1/)
+Our [first workshop](https://realm-workshop.github.io/2025) was held at [ACL 2025](https://2025.aclweb.org/) in Vienna, Austria 🇦🇹: [Recordings](https://realm-workshop.github.io/2025/recording/) • [Accepted Papers](https://realm-workshop.github.io/2025/accepted_papers/) • [Proceedings](https://aclanthology.org/volumes/2025.realm-1/)

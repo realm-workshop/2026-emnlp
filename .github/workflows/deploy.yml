@@ -100,10 +100,12 @@ jobs:
           purgecss -c purgecss.config.js
       - name: Inject URL alias redirects 🔀
         run: |
-          REDIRECT_HTML='<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=https://realm-workshop.github.io/"><link rel="canonical" href="https://realm-workshop.github.io/"></head><body><p>Redirecting to <a href="https://realm-workshop.github.io/">REALM 2026</a>...</p></body></html>'
-          mkdir -p _site/2026 _site/2026-emnlp
-          echo "$REDIRECT_HTML" > _site/2026/index.html
-          echo "$REDIRECT_HTML" > _site/2026-emnlp/index.html
+          REDIRECT_2026='<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=https://realm-workshop.github.io/"><link rel="canonical" href="https://realm-workshop.github.io/"></head><body><p>Redirecting to <a href="https://realm-workshop.github.io/">REALM 2026</a>...</p></body></html>'
+          REDIRECT_2025='<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=https://realm-workshop.github.io/2025-acl/"><link rel="canonical" href="https://realm-workshop.github.io/2025-acl/"></head><body><p>Redirecting to <a href="https://realm-workshop.github.io/2025-acl/">REALM 2025</a>...</p></body></html>'
+          mkdir -p _site/2026 _site/2026-emnlp _site/2025
+          echo "$REDIRECT_2026" > _site/2026/index.html
+          echo "$REDIRECT_2026" > _site/2026-emnlp/index.html
+          echo "$REDIRECT_2025" > _site/2025/index.html
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
