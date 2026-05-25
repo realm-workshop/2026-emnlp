@@ -19,12 +19,12 @@ Topics of interest include, but are not limited to:
 - **Security, Safety and Robustness:** Ensuring the reliability and safety of agentic LLM systems against adversarial scenarios and malicious use.
 - **Ethics and Governance:** Frameworks and guidelines for the ethical development, deployment, and oversight of agentic LLM systems.
 
-We particularly welcome contributions in underexplored areas such as multi-cultural settings and value pluralism—for example, cross-cultural reasoning or value-aware agent behavior—in line with our commitment to diversity within the *ACL community.
+We particularly welcome contributions in underexplored areas such as multi-cultural settings and value pluralism—for example, cross-cultural reasoning or value-aware agent behavior—in line with our commitment to diversity within the ACL community.
 
 
 ### Submission Guidelines
 
-We invite **archival** and **non-archival** submissions as **long papers** (up to 8 pages of content) or **short papers** (up to 4 pages of content), plus unlimited pages of references:
+We invite **archival** and **non-archival** submissions as **long papers** (up to 8 pages of content) or **short papers** (up to 4 pages of content), plus unlimited pages of references and appendix:
 
 - **Long papers (archival)** must be original unpublished work, with concrete evaluation and analysis. Accepted papers will appear in the **ACL Anthology** workshop proceedings.
 - **Short papers (archival)** should be original unpublished work, including a small focused contribution, a negative result, an opinion piece, or an interesting application. Accepted papers will appear in the **ACL Anthology** workshop proceedings.
@@ -49,14 +49,15 @@ All submissions must be made through **OpenReview**. Submissions will open on **
 To help ensure that all submissions receive at least three reviews, we will ask each submission to nominate one author as a reviewer.
 
 Authors should be aware of OpenReview's moderation policy for newly created profiles:
+
 - New profiles created without an institutional email will go through a moderation process that can take up to two weeks.
 - New profiles created with an institutional email will be activated automatically.
 
 #### Camera Ready Version
+
 Final versions of accepted papers will be given one additional page of content (up to 9 pages for long papers, up to 5 pages for short papers) to address reviewers’ comments.
 Authors will have the chance to change the submission type from non-archival to archival and vice versa until the camera-ready deadline.
 
 ### Important Dates
 
 {% include dates.liquid %}
-
