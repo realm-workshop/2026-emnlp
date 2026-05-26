@@ -38,6 +38,11 @@ All submissions must be **anonymous** for double-blind review. Author names and 
 
 We follow the **[ACL Code of Ethics](https://www.aclweb.org/portal/content/acl-code-ethics)**. Authors are expected to attest to the ethical considerations in their work.
 
+Authors should be aware of OpenReview's moderation policy for newly created profiles:
+
+- New profiles created without an institutional email will go through a moderation process that can take up to two weeks.
+- New profiles created with an institutional email will be activated automatically.
+
 ### Preprints and Withdrawals
 
 Preprints (e.g., on arXiv) may be posted publicly at any time and **do not** violate the anonymity policy, provided the submitted PDF does not link to de-anonymized author information.
@@ -47,11 +52,6 @@ If an archival paper is accepted for inclusion in the proceedings, authors **mus
 All submissions must be made through **OpenReview**. Submissions will open on **Monday June 1st, 2026**. The OpenReview submission link will be posted here soon.
 
 To help ensure that all submissions receive at least three reviews, we will ask each submission to nominate one author as a reviewer.
-
-Authors should be aware of OpenReview's moderation policy for newly created profiles:
-
-- New profiles created without an institutional email will go through a moderation process that can take up to two weeks.
-- New profiles created with an institutional email will be activated automatically.
 
 #### Camera Ready Version
 
