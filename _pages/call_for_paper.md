@@ -52,6 +52,10 @@ If an archival paper is accepted for inclusion in the proceedings, authors **mus
 
 To help ensure that all submissions receive at least three reviews, we will ask each submission to nominate one author as a reviewer.
 
+### Call for Reviewers
+
+We are also recruiting volunteer reviewers. If you are interested in reviewing for REALM, please sign up using our **[reviewer registration form](https://forms.gle/hRF6QFWmMpZgprt46)**. The tentative review period is **August 1st to August 29th, 2026**. You will need an OpenReview account (with your `~Username`).
+
 #### Camera Ready Version
 
 Final versions of accepted papers will be given one additional page of content (up to 9 pages for long papers, up to 5 pages for short papers) to address reviewers’ comments.
