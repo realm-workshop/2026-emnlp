@@ -21,8 +21,7 @@ Topics of interest include, but are not limited to:
 
 We particularly welcome contributions in underexplored areas such as multi-cultural settings and value pluralism—for example, cross-cultural reasoning or value-aware agent behavior—in line with our commitment to diversity within the ACL community.
 
-
-### Submission Guidelines
+## Submission Guidelines
 
 We invite **archival** and **non-archival** submissions as **long papers** (up to 8 pages of content) or **short papers** (up to 4 pages of content), plus unlimited pages of references and appendix:
 
@@ -43,13 +42,13 @@ Authors should be aware of OpenReview's moderation policy for newly created prof
 - New profiles created without an institutional email will go through a moderation process that can take up to two weeks.
 - New profiles created with an institutional email will be activated automatically.
 
-### Preprints and Withdrawals
+All submissions must be made through the following **[OpenReview link](https://openreview.net/group?id=EMNLP/2026/Workshop/REALM)**. Submissions open on **Monday June 1st, 2026**.
+
+#### Preprints and Withdrawals
 
 Preprints (e.g., on arXiv) may be posted publicly at any time and **do not** violate the anonymity policy, provided the submitted PDF does not link to de-anonymized author information.
 
 If an archival paper is accepted for inclusion in the proceedings, authors **must withdraw** it from any other venue where it remains under consideration.
-
-All submissions must be made through **OpenReview**. Submissions will open on **Monday June 1st, 2026**. The OpenReview submission link will be posted here soon.
 
 To help ensure that all submissions receive at least three reviews, we will ask each submission to nominate one author as a reviewer.
 
