@@ -50,7 +50,9 @@ We invite submissions on research at the intersection of AI agents and LLMs. See
 
 ### Invited Speakers and Panelists
 
-TBD
+We have an exciting (tentative) lineup of speakers and panelists.
+
+{% include speakers.liquid center=true %}
 
 ### Questions
 
