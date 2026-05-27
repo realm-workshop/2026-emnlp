@@ -38,6 +38,7 @@ In light of these challenges and opportunities, our workshop aims to bring the A
 ### Venue
 
 The REALM workshop will take place at the 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**, October 24–29), in **Budapest, Hungary 🇭🇺**.
+
 <p style="font-size: 1.2em">The workshop will be held on <strong>Thursday, October 29</strong>, from <strong>9:00am to 5:30pm</strong> in <strong>Room P1</strong>, in a <strong>hybrid</strong> format (in-person and online).</p>
 
 ### Call For Papers
