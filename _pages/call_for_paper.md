@@ -42,7 +42,7 @@ Authors should be aware of OpenReview's moderation policy for newly created prof
 - New profiles created without an institutional email will go through a moderation process that can take up to two weeks.
 - New profiles created with an institutional email will be activated automatically.
 
-All submissions must be made through the following **[OpenReview link](https://openreview.net/group?id=EMNLP/2026/Workshop/REALM)**. Submissions open on **Monday June 1st, 2026**.
+All submissions must be made through the following **[OpenReview link](https://openreview.net/group?id=EMNLP/2026/Workshop/REALM)**. We also accept papers reviewed through **ACL Rolling Review (ARR)**, which can be committed to REALM via the following **[ARR commitment link](https://openreview.net/group?id=EMNLP/2026/Workshop/REALM_ARR_Commitment)**. Submissions open on **Monday June 1st, 2026**.
 
 #### Preprints and Withdrawals
 
