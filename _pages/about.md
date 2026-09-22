@@ -43,7 +43,7 @@ The REALM workshop will take place at the 2026 Conference on Empirical Methods i
 
 ### Call For Papers
 
-We invite submissions on research at the intersection of AI agents and LLMs. See the full **[Call for Papers](/call_for_papers/)** for topics, submission guidelines, and important dates. Interested in reviewing? See **[Call for Reviewers](/call_for_papers/#call-for-reviewers)** on the same page.
+We invite submissions on research at the intersection of AI agents and LLMs. See the full **[Call for Papers]({{ '/call_for_papers/' | relative_url }})** for topics, submission guidelines, and important dates. Interested in reviewing? See **[Call for Reviewers]({{ '/call_for_papers/#call-for-reviewers' | relative_url }})** on the same page.
 
 ### Important Dates
 

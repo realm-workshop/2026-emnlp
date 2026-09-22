@@ -88,12 +88,18 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-      - name: Install and Build 🔧
+      - name: Install build dependencies 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
-          export JEKYLL_ENV=production
-          bundle exec jekyll build
+      - name: Build root site 🏠
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --destination _site
+      - name: Build 2026 project archive 📦
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build --baseurl "/2026-emnlp" --destination _site_archive
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
@@ -102,11 +108,10 @@ jobs:
         run: |
           REDIRECT_2026='<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=https://realm-workshop.github.io/"><link rel="canonical" href="https://realm-workshop.github.io/"></head><body><p>Redirecting to <a href="https://realm-workshop.github.io/">REALM 2026</a>...</p></body></html>'
           REDIRECT_2025='<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=https://realm-workshop.github.io/2025-acl/"><link rel="canonical" href="https://realm-workshop.github.io/2025-acl/"></head><body><p>Redirecting to <a href="https://realm-workshop.github.io/2025-acl/">REALM 2025</a>...</p></body></html>'
-          mkdir -p _site/2026 _site/2026-emnlp _site/2025
+          mkdir -p _site/2026 _site/2025
           echo "$REDIRECT_2026" > _site/2026/index.html
-          echo "$REDIRECT_2026" > _site/2026-emnlp/index.html
           echo "$REDIRECT_2025" > _site/2025/index.html
-      - name: Deploy 🚀
+      - name: Deploy root site 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
@@ -114,3 +119,12 @@ jobs:
           repository-name: realm-workshop/realm-workshop.github.io
           branch: gh-pages
           folder: _site
+          clean: true
+      - name: Deploy 2026 project archive 🚀
+        if: github.event_name != 'pull_request'
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: _site_archive
+          clean: true
