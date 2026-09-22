@@ -1,0 +1,164 @@
+Submission ID,Authors,Title,Decision,Archival
+1,Sanjana Pedada; Aditya Dhavala; Neelraj J. Patil,Shared Selective Persistent Memory for Agentic LLM Systems,Poster,Yes
+2,Linhan Li; Chuanqi Jiang; Wenqian Weng; Jacqueline J. Pang; Zhiguo Tao,Hydra: Adaptive Adversarial Attacks for Dynamic Multi-Stage Edge Intelligence Services,Poster,Yes
+3,Zhuofeng Li; Dongfu Jiang; Xueguang Ma; Haoxiang Zhang; Ping Nie; Yuyu Zhang; Kai Zou; Jianwen Xie; Yu Zhang; Wenhu Chen,OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis,Poster,No
+4,Ruiyang Zhang,Silent Locale Corruption: Diagnosing and Mitigating Chinese-Locale Semantic Failures in LLM Tool Calling,Poster,Yes
+6,Hossein A. Rahmani; Satyapriya Krishna; Xi Wang; Mohammadmehdi Naghiaei; Emine Yilmaz,Self-Correcting Large Language Models: Generation vs. Multiple Choice,Poster,Yes
+7,Prakhar Khatri,Do Context Files Help Coding Agents? A Two-Agent Ablation Study on Real Repositories,Poster,Yes
+17,Zixiang Xu; linna yu; miao xie,A Single-GPU Recipe for Specification-Grounded Industrial Decision Support,Poster,No
+18,Leqi Jia; Muhammad Saadat; Marlin Wong; Adithya Venkatesh; Kiran Nijjer,Causal Decomposition of LLM Agent Failure via Oracle-State Intervention,Oral,Yes
+19,Jiameng Zhang,When Context Sharing Looks Better Than It Is: Evaluation Pitfalls in Multi-Agent Question Answering,Poster,No
+22,Lijuan Tang; Yuemeng Zheng,Measuring the Serving Stack Instead of the Model: Hidden Confounds in Local Tool-Use Evaluation,Poster,Yes
+25,Zelin Zhao; Bo Yuan; Yuchen Zhu; Jaemoo Choi; Yongxin Chen,RMA: an Agentic System for Research-Level Mathematical Problems,Poster,No
+26,Liang Nie; Hehua Zhang,When Is Agent Tool-Result Cache Reuse Actually Safe?,Poster,Yes
+29,Xiaoxuan Li; Bangbang Liu; Ying Zhao,Authentic but Not Neutral: Selective Evidence in LLM-Agent Leaderboards,Poster,Yes
+30,Arunabh Srivastava; Mohammad A. Khojastepour; Srimat Chakradhar; Sennur Ulukus,"GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI",Poster,Yes
+35,Chang Liu,Answer or Compute? Direct Inference vs. Code Generation for LLM Game-State Understanding in RTS Games,Poster,Yes
+37,deli liu; Xiaoping Zhou; Yu Li,Distance from Equilibrium Is Not the Same as Loss from Equilibrium: A Colonel Blotto Study of LLM Persona Behavior,Poster,No
+38,Juntae Lee; Jihwan Bang; Seunghan Yang; Sungha Choi,Foundation First: Stabilizing SLM Agents via Pre-execution Logical Scaffolding,Poster,Yes
+40,Andrew Zhang; Chengzhan Li,Agent Step Value: Auditing Evaluation-Channel Sensitivity in Black-Box Agent Traces,Poster,Yes
+43,Peter Choi,Reads Are Not Free: Read-Budget-Aware Retrieval and Agent-as-Router for LLM Agents,Poster,No
+44,Prasannjeet Singh,PRISM: Bounded Autonomy for LLM Agents via Workflow Projection and Deterministic Consequence Boundaries,Poster,Yes
+46,Sina Hajimiri; Masih Aminbeidokhti; Jose Dolz; Ismail Ben Ayed; Issam H. Laradji; Spandana Gella; Nicolas Gontier,Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents,Oral,No
+49,Zhiguo Tao; Linhan Li; Lifan Sun; Zichen Yuan,FUSE: Failure-Guided Scenario Synthesis and Weighted Refinement for LLM Function Calling,Poster,Yes
+50,Yifeng He; Yinzhe Zhao; Jicheng Wang; Hao Chen,Is Progressive Disclosure All You Need for Long-Context Agents?,Poster,Yes
+51,SHAOBO QIAO,From Credit Assignment to Repair: A Leakage-Controlled Diagnostic Study of Tool-Using Agents,Poster,Yes
+52,Samarth Vinayaka,When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors,Poster,Yes
+56,Jing-Jing Li; Jianfeng He; Chao Shang; Devang Kulshreshtha; Xun Xian; Yi Zhang; Hang Su; Sandesh Swamy; Yanjun Qi,STAC: When Innocent Tools Form Dangerous Chains for LLM Agents,Oral,Yes
+59,Amit Maraj; Kannav Sethi,Do Query-Agnostic Memory Structures Earn Their Budget? A 10M-Token Audit with Exact Read Limits,Poster,Yes
+60,Yufeng Wang,FounderBench: Evaluating LLM Agents on Sequential Startup Decisions,Poster,No
+61,Yihang Chen; Pin Qian; Su Wang; Chong Peng; Huan Xu; Shuaiting Li; Yiqi Sun,Explicit State Elicitation Is Not Enough: A Controlled Audit of Memory-Policy Classification,Poster,Yes
+62,Zhang Weizhou; Lixing Lyu,Retrieval is Enough: A Memory-Augmented Agent for Algorithm Selection,Poster,Yes
+71,Poli Nemkova; Haeshitha Indukuri,"Decomposing Self-Reflection in LLM Agents: Diagnostic Scaffolds, Uncertainty Labels, and Action Diversity",Poster,Yes
+72,Lasse B. Strand; Robert Jakob; Kevin O'Sullivan; Markus Kreft,Agentic AutoRAG: RAG Pipeline Optimization through Reasoning-Driven Agents,Poster,No
+73,Teodora Stereciu; Baohao Liao; Christian Herold; Shahram Khadivi; Christof Monz,Agent-Readiness of Synthesized API Tools: Parametric Gravity and the Limits of Documentation Grounding,Poster,Yes
+74,Youmna Farag; Svetlana Stoyanchev; Simon Keizer; Mohan Li; Rama Doddipatla,CAPSafe: A Benchmark for Contextual Action and Plan Safety Reasoning in Embodied Agents,Oral,Yes
+75,Tommy Tran,Where the Tokens Go: A Measured Anatomy of LLM Agent Trajectory Costs,Poster,Yes
+81,Loc Nguyen; Nguyen Khanh Long; Vu Gia Nam; Nguyen Tran Minh Nhat,Feedback Blindness: Diagnosing Silent Failures in Closed-Loop Agentic Data-Generation Pipelines,Poster,Yes
+82,Jonas Schewior; Ansari Hamid Raja Gulam; Mohamed Ashfaq Anwerdeen; Andreas Wendemuth,"Tool Quality, Not Framework Complexity: Evaluating RLM Vision, Code, and Memory Pipelines for Radiology Applications",Poster,Yes
+83,Harsh Rao Dhanyamraju; Leonidas Raghav; Aaron Lee,Autonomous Event Driven Multi-Agent Orchestration for Enterprise AI at Scale,Poster,Yes
+86,Rista Baral; Akshey Sigdel,ToolMisuseBench: An Offline Deterministic Benchmark for Tool Misuse and Recovery in Agentic Systems,Poster,Yes
+87,Daeun Jeong; Yongjun Zhu,"Same Answers, Different Active-Store States: An Identification Audit of FactConsolidation Single-Hop",Poster,Yes
+88,Zewen Tao; Shin-nosuke Ishikawa,Externalizing Requirement-to-Repair Artifacts as Observable Traces for LLM-Based Program Repair,Poster,Yes
+89,Mohammad Taha Bahadori; Victor Quintas; Patrick Blöbaum; Badre Narayanan Vedantha Ramanujan; David Heckerman,A Causal Safety Lifecycle for Self-Improving Agents,Poster,No
+91,Yibo Li; Jiashuo Yang; Zhi Zheng; Zhiyuan Hu; Yuan Sui; Shizun Wang; Yufei He; Bryan Hooi,APEX: Autonomous Policy Exploration for Self-Evolving LLM Agents,Poster,No
+92,Mohamed Khelifi; Saif Daoud; Leena Babiker; Sami Ouanes; Mohammad Raza; Safa Messaoud,From Textbooks to Proactive Agentic Systems: Scaling Long-Horizon Planning via Automated Agentic System Construction,Spotlight,No
+93,Yuxin Tian; Zenghao Duan; Liang Pang; Zhiyi yin; Xueqi Cheng,SkillAtlas: An Attack Trace Library for Agent Skills,Poster,No
+97,Soham Wasmatkar,Flight to Mediocrity: Why LLM Agent Selectors Under-Hire Experts When Quality Claims Are Unverified,Poster,Yes
+99,Kushagra Agrawal; Yuming Feng; Man-Fai Leung,Translating the Translator: Decomposing the Cost of English-Forced Inter-Agent Communication,Poster,Yes
+102,Sara Vera Marjanovic; Jiacheng Xu; Aleksandr Laptev; Grigor Nalbandyan; Erik Arakelyan; Evelina Bakhturina,"Mo’ Models, Mo’ Problems: How to best select model pools when designing Multi-Agent Systems",Poster,Yes
+104,Xuanyi Liu; Niall Dalton; Hairi Amin; Xiyuan Yin; Lydia Lim,Be Careful Who You Trust: Coordination Dynamics under Corrupted Communication in LLM Multi-Agent Games,Poster,Yes
+105,Quang Dao; Purvi Kathalkar; Kenneth Eaton,Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents,Poster,Yes
+109,Yifeng Xiao; Zhiyu Ni; Dinghong Song; Mi Zhou; Pierluigi Nuzzo,ACIES: A Self-Evolving Agentic Contract-Based Framework for Cyber-Physical System Control Synthesis,Poster,Yes
+111,Rishi N. Simhadri,Capability Is Not Complementarity: A Routing Feasibility Study in Financial Question Answering,Poster,Yes
+114,Elizaveta Zinovyeva; Aiham Taleb; Nikita Kozodoi; Daniel Schleicher; Amir Mahdi Namazi; Martin Kraus; Levent Kent; Brian Jensen,Generation and Verification: Human-Agent Collaboration for Safety-Critical Automotive Software Engineering,Poster,Yes
+115,Srinivas Harish,Two Thirds of the Best-of-K Oracle Band in Tool Agents Is Unreachable by Reward-Free Selection,Poster,Yes
+117,Harsh Vishwakarma; Ankush Agarwal; Suraj Mahadev Nagaje; Chaitanya Devaguptapu,EnterpriseLab: A Full-Stack Platform for developing and deploying agents in Enterprises,Poster,No
+118,Adib Sakhawat; Fardeen Sadab; Rakin Shahriar,AIDG: A Formal Decomposition of Information Extraction and Containment Asymmetries in Multi-Turn LLM Dialogue,Poster,Yes
+119,Yueshen Li; Kamer Ali Yuksel; Gokhan Tur; Dilek Hakkani-Tür; João Pedro Maia; Hassan Sawaf,VeriEvolve: Evaluator-First Evolution for Tool-Using Agents,Poster,No
+120,Shukraditya Bose; Soumen Sinha; Ananya R Bhat; Rahul Roy,V-RAM: A Visual Retrieval-Augmented Multi-Agent Reasoning Framework for Medical Dialogue Diagnosis,Poster,Yes
+121,Jonas Schewior; Deniz Bilgin; Gonzalo Haefner; Andreas Wendemuth,AgenticLOCI: A Multi-Agent Memory Framework for Conversational AI with Longitudinal Personalization,Poster,Yes
+122,Deniz Bilgin; Jonas Schewior; Andreas Wendemuth,"Capture Is Easy, Forgetting Is Hard: Benchmarking Prospective Memory in Conversational Agents",Spotlight,Yes
+124,Tung Thanh Hoang,"Fidelity Collapses with Table Size, Not Turn Count: Delivery Architecture in a Deployed Tool-Using Agent",Poster,No
+125,Luyang Zhang; Yi-Yun Chu; Jialu Wang; Beibei Li; Ramayya Krishnan,Agents Repair — or Just Reply? Public Correction in Deployed Agent Forums,Oral,No
+126,Jian Gao; Hang Jiang,When Hiring Becomes Agent-Mediated: Evaluating Access and Recurrence in Two-Agent Résumé Screening,Poster,Yes
+127,Siddharth Vohra; Min Xu,"Research Agents Feed Doubts, Not Beliefs: Auditing Belief Framing in Live-Web Search",Spotlight,Yes
+128,Lauren Pothuru,When Failures Propagate: Causal Failure Attribution in Agentic Retrieval-Augmented Generation,Poster,Yes
+129,Sai Krishna Rallabandi; Parag Pravin Dakle; Preethi Raghavan,What Agent Benchmarks Don't Tell You: Recoverability and Credit Assignment in Agentic Retrieval Evaluation,Poster,Yes
+130,Siddharth Chauhan; Thomas Butler; Abhishek Singhania; Pankaj Kumar Porwal; Honey Gupta,When the API Speaks the Wrong Language: Revisiting Post-Training for Multilingual Tool Use,Poster,Yes
+131,Jingzhuo Hu; Aakash Suresh; Zhifei Li; Hanchen Li; Yichuan Wang,"What Does Better Retrieval Buy Coding Agents? A Cross-Level Study of Retrieval, Context Acquisition, and Issue Resolution",Poster,No
+133,Vedant Singh,Source Is Not Authority: Selector-Aware Provenance Authorization for Tool-Using Agents,Spotlight,No
+134,Avinash Goutham Aluguvelly,Beating a Random-Direction Bank Does Not Establish Policy Improvement: An Exact-Value Audit of Activation Steering for Agents,Poster,Yes
+135,Nearchos Potamitis; Vansh Ramani; Har Ashish Arora; Dhairya Kuchhal; Lars Henning Klein; Akhil Arora,ReasonBENCH: Benchmarking the (In)Stability of LLM Reasoning,Spotlight,No
+138,Partha Sarathi Purkayastha; Heejin Do,DySAS: Dynamic State-Aware Student Simulation Beyond Static Personas,Poster,Yes
+139,Zixiang Liu; Wenrui Liu; Elsie Dai; Wenhan Yu; Lei Yu; Tong Yang; Yinjun Han; Hong Gao,MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use,Poster,Yes
+140,Nimay Ballal; BADRI PRASAD V R,Grounding First: Auditing a Structured Recovery Wrapper for Local Open-Weight Reflexion Agents,Poster,Yes
+141,Ioannis Prokopiou; Athanasios Aidinis; Panagiotis-Christos Kyrmpatsos; Pantelis Vikatos,What Drives Recovery in Agentic Text-to-Cypher? LAST-CQ: An LLM Agent Self-Refinement Framework,Poster,Yes
+142,Chanyoung Kim; Harim Song; Keonyoung Lee; Dahuin Jung,ALFWorld-Para: Simple Object Renaming Reveals the Fragility of RL-Trained LLM Agents,Poster,No
+143,Bardia Mohammadi; Lars Henning Klein; Akhil Arora; Laurent Bindschaedler,Ghost Tool Calls: Issue-Time Privacy for Speculative Agent Tools,Poster,No
+144,Bardia Mohammadi; Lars Henning Klein; Akhil Arora; Laurent Bindschaedler,When to Cross the Rubicon: Settlement Reliability for LLM Agent Tool Use,Poster,No
+145,Aditya Mazumdar,Runtime Verification of Dimensional Semantics in Checkpointed Large Language Model Tool Workflows,Poster,Yes
+146,Hafsa Akbar; Daniel Platnick; Marjan Alirezaie; Hossein Rahnama; Alex Pentland,Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents,Poster,Yes
+150,Jingxi Wei,Trajectories That Segment Themselves: Agent-Declared Boundaries as a Training Unit,Poster,No
+153,Muthaheera Yasmeena Belgur Shamiullah,Failing Agents Leave Traces: Telemetry Signatures for Multi-Tier Agent Evaluation,Spotlight,Yes
+154,Shuang Xie; Yunan Lu; Han Li; Lingyun Wang,EARS: Explanatory Abstention for Reliable Sub-Agent Modeling in Large-Scale Multi-Agent Systems,Poster,Yes
+156,Penghong Guo; Boxin Du; Houliang Zhou; Chaman Gupta; Yina Gu; Rayssa Küllian; Shen Jiang,ExGQL: Self-Improving Natural Language-to-Graph Query Generation via Experience-Guided Learning,Poster,Yes
+159,Charlie Summers; Prajwal Raghunath; Aaditya Pai; Mayur Kulkarni; Zhuo Zhang; Oliver Kennedy; Eugene Wu,Environment Steering: Using Data Flow Control to Improve Agent Utility and Safety,Poster,Yes
+160,Tamara Kostova; Sonja Gievska,Role-Diverse Agent Forests for Neuroimaging Triage: When Does Prompt-Induced Role Diversity Help?,Poster,Yes
+163,Siddharth Vohra; Manikandan Ravikiran,The Audit Decides the Verdict: Instrument Effects Rival Demographic Bias in LLM Decision Audits,Poster,Yes
+164,Arnau Rodon Comas,Cross-Modal Tool Chaining in a Deployed Agentic Retrieval System,Poster,No
+166,Amirhossein Abaskohi; Mahdi Mostajabdaveh; Zirui Zhou,SEDIMA: Cross-Run Hierarchical Insight Memory for Evolutionary Search Agents,Spotlight,Yes
+167,Alessandro Sosso; Akhil Arora; Bas Spitters,Agentic Proving for Program Verification,Poster,No
+168,Fatemeh Taheri Dezaki; Lakshman Kolasani; Ankita Bhaumik; Siddartha Sathyamoorthy Rao; Ayush Jain,When Critics Go Stale: Benchmarking Safety Guardrail Degradation Under Environment Drift,Poster,Yes
+169,Arka Dutta; Virinchi Roy Surabhi; Jiayue Tong; Dihan Dai; Olcay Boz; Amila Weerasinghe,Are LLM Shopping Agents Behaviorally Distinguishable from Human Shoppers? A Session-Level Study,Poster,Yes
+172,Shangao Li; Yao Zhang; Volker Tresp; Yuanyuan Yang,QuoteBench: When Matched Scores Hide Command-Path Failures,Poster,No
+173,Junhao Qiu,BioSciReview-Bench: Benchmarking Coding Agents on Silent Scientific Bug Detection in Bioinformatics Code,Poster,Yes
+175,Jai Kumar Sharma; Peeyush Tapadiya,Do Tool Schemas Fully Specify Argument Binding?,Poster,Yes
+176,Lixin Liu; Yixuan Li; Xiankun Lin; Yutian Lu; Shiguang NI,Testing Behavioral Adaptation in Repeated Interactions Between LLM Agents,Poster,Yes
+177,Woongkyu Lee; Jungwook Choi,CANDID: Candidate-Driven Intervention for Disciplined Execution in Local Computer-Use Agents,Spotlight,No
+178,Shin-nosuke Ishikawa; Masato Todo; Atsushi Yoshino; Hirotsugu OHBA,CaseInterviewBench: Evaluating Agentic AI's Purpose-Reflective Autonomy to Uncover What the User Really Needs,Poster,Yes
+179,Yu-Seung Ma; Sangyeop Yeo,A Case Study of On-Premise ReAct for Collaborative Robot Programming,Poster,Yes
+181,Khang Nhat Hoang Vo; Tam Minh; Anh Trac Duc Dinh; Thuyen Vinh Ha Bui; Tho Quan,Causal Episodic Memory for Feedback-Driven Agent Repair,Poster,Yes
+182,Tisha Chawla; Susheem Koul,Chronicle: Cut-Point Replay for Regression Testing of LLM Agents,Poster,Yes
+183,Jiangnan YU; Kisson Songqi Lin,Contract Before Code: Failure-Compiled Contracts for Long-Horizon Coding Agents,Poster,Yes
+186,Riya Bharathwaj; Akshara Prabhakar; Roshan Ram; Avni Kothari; Sarah Tan; Huan Wang; Silvio Savarese,ErosionBench: Probing Alignment Decay in Enterprise Multi-Agent Systems,Poster,No
+187,Amirhossein Abaskohi; Amirhossein Dabiriaghdam; Lele Wang; Peter West; Giuseppe Carenini,DeepRewind: Predicting and Repairing Premature Commitments in Deep Research Agents,Poster,Yes
+189,Imene Kerboua; Véronique Eglin; Alex Aussem; Jérémy Espinas; Louis Airale,Is Language the Barrier? Web Agents and Judges on the Real Multilingual Web,Poster,No
+190,Callie C. Liao; Duoduo Liao; Ellie L. Zhang,BirdsongChat: A Hybrid Multi-Agent Framework for Interactive Multimodal Embodied Behavior Simulation,Poster,Yes
+192,Jiaming Wei; Zekun Wu; Adriano Koshiyama; Maria Perez-Ortiz,Routing Is Least Learnable Where It Is Most Valuable: Bounds on Representation Routing for Web Agents,Poster,No
+193,Joeun Yook; Terry Jingchen Zhang; Zhijing Jin,Localizing LLM Failures in Decision Making with Bayesian Optimal Baselines,Poster,No
+194,Hankyul Baek; Jaewon Noh; Sang Seo; Yongsu Kim; Gabriel Waikin Loh Matienzo; Young Il Kim; Ee Wei Seah; Akriti Vij,An Evaluation of Data Leakage Risks in Tool-Using LLM Agents in Realistic Scenarios,Poster,Yes
+195,Hyunseo Kim; Suil Choe; Sukkyoung So; Daeyeon Yi,GLOBE: Evolving Structured Agentic Memory for E-commerce Product Optimization in Generative Search,Poster,Yes
+196,Yifan Wang; Zekun Wu; Kleyton Da Costa; Clara Crommen; Hana Emma Hadidi; Philip Colin Treleaven; Adriano Koshiyama,Auto-Adapter: Physics-in-the-Loop Robot Driver Synthesis for Embodied LLM Agents,Poster,No
+197,Krishna Sayana; Ketan Kumar Todi; Ambarish Jash; Sukhdeep Sodhi,COMPASS: Critique-guided Optimization of MetaPolicies for Agentic Systems with Reinforcement Learning,Poster,Yes
+201,Yining She; Lei Lin,Efficient Benchmarking in Production: A Study of an Evolving LLM Agent,Poster,No
+202,Swathi Shree Narashiman; Ishan Jindal; Mahesh Chandran,From Trajectories to Workflows: Online Procedural Memory Abstraction for Language Agents,Poster,Yes
+205,Ziqian Wang; Jinli Suo,When Evidence-Use Gains Do Not Transfer to Evidence Seeking,Poster,No
+206,Melat Ghebreselassie; Melissa Li,Prior-History Sensitivity in Agentic Safety Evaluations,Poster,Yes
+207,Ziyad Benomar; Weronika Łajewska; Leonardo Perelli; Saab Mansour,Data-Driven Persona-Conditioned Agents for A/B Test Simulation,Poster,No
+208,Wuya Chen; Yihao yang; Yang Cao; Yue Lin,CodeGrep: An RL-Trained Retrieval Agent for LLM Coding Agents,Poster,Yes
+210,Seungbeom Park; Jaewon Chu; Hyunwoo J. Kim,SkillCombiner: Optimizing Agent Skills via Edit Combination Search,Poster,Yes
+211,Md Tahmid Rahman Laskar; Xue-Yong Fu; Seyyed Saeed Sarfjoo; Quinten McNamara; Jonas Robertson; Shashi Bhushan Tyamagondlu Nagabhushan,A Reproducible and Verifiable Framework for Evaluating Omni-Modal Tool Calling LLM Agents,Poster,No
+214,Md Tahmid Rahman Laskar; Xue-Yong Fu; Gundeep Singh; Karol Chang; Kevin Sanders; Shi Zong; Tania Habib; Julien Bouvier Tremblay; Shayna Gardiner; Harsh Saini; Matthias Lee; Elena Khasanova; Quinten McNamara; Shashi Bhushan Tyamagondlu Nagabhushan,When Better Turns Do Not Make Better Agents: Diagnosing the Gap Between Next-Turn Metrics and Workflow Success,Poster,Yes
+215,Parth Agarwal; Sanchit Bahuguna; Dhruv Kumar,LLM Graders Are Systematically Harsher Than Industry Interviewers: A Benchmark of 221 Real Technical Interviews,Poster,No
+216,Parth Agarwal; DHRUV SHAH; Navya Kommuri; Prisha Singhal; Trizal Garg; VAIBHAV DEVRAJ; Jagat Sesh Challa; Yash Sinha; Dhruv Kumar,CricBench: A Multilingual Benchmark for Evaluating LLMs in Cricket Analytics,Poster,No
+220,Bardia Mohammadi; Laurent Bindschaedler,The Irreversibility Budget: Fleet-Level Risk Accounting and Admission Control for Agent Operating Systems,Poster,No
+221,Usukhbayar Purevdorj; Zekun Wu; Adriano Koshiyama; Philip Colin Treleaven,Stage-Level Attribution for Browser Agents under Label–Destination Attacks,Poster,No
+222,Ishitwa Viranchi; Akshintala Nagesh Kashyap; Mrunal Shah,Dynamics-Aware Navigation for Autonomous UI Agents on Directional-Input Devices,Poster,Yes
+223,Anton Ivanov Hristov,Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning History Compaction on Future Generation and Agent Cost,Poster,Yes
+226,Jonas Gebele; Tristan Till; Florian Matthes,Diversity and Deliberation in Homogeneous LLM Prediction Polls,Poster,Yes
+228,Yang He; Jinlin Wang; Yulong Ji; Jianwei Zhang,When Agreement Is Not Enough: Evidence-Risk Arbitration for Multi-Strategy Agentic QA,Poster,Yes
+230,Ke Li; Xinyi Yang; Runzhe Zhan; Qianyong Hu; Derek F. Wong; Qingsong Li; Zhiyuan Liu,FlexSciEval: Structure-Grounded Multi-agent Evaluation for Flexible Electronics Research,Poster,Yes
+232,JaeWon Kim; Angie Boggust,What People Almost Did: Evaluating LLM Social Simulations Beyond Behavioral Fit,Poster,Yes
+233,Yang He; Jinlin Wang; Yulong Ji; Jianwei Zhang,Lost in the Handoff: Contract-Aware Compliance Checking for Multi-Agent LLM Systems,Poster,Yes
+234,Bardia Mohammadi; Lars Henning Klein; Aman Chadha; Akhil Arora; Laurent Bindschaedler,The Working Set of a Coding Agent: Coherence Debt in Repository-Scale Tasks,Oral,No
+235,Md Tahmid Rahman Laskar; Xue-Yong Fu; Shashi Bhushan Tyamagondlu Nagabhushan,"SFT or RL for Tool-Calling Agents? A Controlled Study Across Data, Method, and Scale",Poster,Yes
+ARR-1,Thomas Palmeira Ferraz; Romain Deffayet; Vassilina Nikoulina; Hervé Déjean; Stéphane Clinchant,Retrieval-Augmented LLM Agents: Learning to Learn from Experience,Poster,No
+ARR-2,Nicholas Edwards; Sebastian Schuster,Ask or Assume? Uncertainty-Aware Clarification-Seeking in Coding Agents,Poster,No
+ARR-3,Zhixing You; Jiachen Yuan; Jason Cai,D-Mem: A Dual-Process Memory System for LLM Agents,Poster,Yes
+ARR-5,Ishani Mondal,CANVAS: Continuity-Aware Narrative Generation via Visual Agentic Storyboarding,Poster,No
+ARR-6,Yunan Lu; Ryan Shea; Yusen Zhang; Zhou Yu,VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation,Poster,Yes
+ARR-7,Tianyi Hu; Niket Tandon; Akhil Arora,DIVERGE: Diversity-Enhanced Retrieval-Augmented Generation for Open-Ended Information Seeking,Poster,No
+ARR-9,Kaiming Liu; Xuanyu Lei; Ziyue Wang; Peng Li; Yang Liu,Agent-Environment Alignment via Automated Interface Generation,Poster,No
+ARR-10,Hao-Qun Huang; Kai-Chun Wu; Hsin-Yu Wang; Chun-Wei Tsai,CoDA-NAS: Pattern Knowledge-Based Cross-Task Neural Architecture Search with LLM Agents,Poster,Yes
+ARR-11,Yiting Zhao; Wanke Xia; Yihang Ding; Jinbo Su; Jialiang Yang; Zhengbo Zhang; Ke Wang; Wenming Yang,MemGround: Evaluating Memory Behavior of Large Language Models in Long-Horizon Gamified Scenarios,Poster,No
+ARR-12,Ulugbek Shernazarov; Charitha Ruwansiri Weerakon Basnayake; Abdelkhaleq EL JARJINI; Noel Crespi; Praboda Rajapaksha,Disentangling Topology and Diversity in Multi-Agent LLMs for Multilingual Low-Resource Emotion Detection,Poster,Yes
+ARR-13,HONGMO TAO; Hiroyuki Kamata,Teaching Coding Assistants What to Change: Fine-Tuning from Pairwise Preferences,Poster,Yes
+ARR-14,Xizhi Wang,TRIAGE: Severity-Ranked Multi-Agent Failure Attribution,Poster,No
+ARR-15,Alejandra Zambrano; Sara Vera Marjanovic; Imene Kerboua; Xing Han Lù; Leila Kosseim,Does The Way You Plan Matter? An Empirical Study of Planning Representations for LLM Web Agents,Poster,Yes
+ARR-16,Chris Bates; Ian Perera,Prompting Strategies for Conceptual Ideation in Problem Solving,Poster,Yes
+ARR-17,Hongliu Cao,Policy Loopholes in Agent Evaluation: When Policy Ambiguity Masquerades as Agent Error,Poster,Yes
+ARR-18,Matteo Migliarini; Joaquin Pereira Pizzini; Luca Moresca; Valerio Santini; Indro Spinelli; Fabio Galasso,Quantifying Self-Preservation Bias in Large Language Models,Poster,No
+ARR-19,Shao-Cheng Lu; Shui-Hsiang Hsu; Chen-Jui Yu; Yao-Chung Fan,ToolFuse: Documentation-Intent Fusion for Training-Free Tool Retrieval,Poster,Yes
+ARR-20,Ruozhen He; Zhongnan Qu; Sheng Zhang; Mesut Erhan Unal; Zhuowen Tu; srikar appalaraju; Jianbo Yuan; Shabnam Ghadar; Haofu Liao,"Trace2Ground: Scenario, Disambiguation, and Relation Traces for Web GUI Grounding",Poster,Yes
+ARR-21,Haw-Shiuan Chang; Jeffrey Gomez; Mehul Patwari; Aryan Sajith; Hamed Zamani,Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users,Poster,No
+ARR-22,Zhixiang Wang; Jingxuan Xu; Dajun Chen; Yunfang Wu; wei jiang; Yong Li,Securing the Floor and Raising the Ceiling: A Merging-based Paradigm for Multi-modal Search Agents,Poster,Yes
+ARR-23,Vaishali Senthil; Ashutosh Hathidara; Sebastian Schreiber,CoHyDE: Iterative Co-Training of LLM Rewriter & Dense Encoder for Tool Retrieval,Poster,Yes
+ARR-24,Gabriel Roccabruna; Olha Khomyn; giuseppe riccardi,MATEO: A Multimodal Benchmark for Planning with Temporal Execution Ordering,Poster,Yes
+ARR-25,Tz-Huan Hsu; Jheng-Hong Yang; Yijun Ge; Jimmy Lin,Rethinking Agentic Search with RELEX: Is Lexical Retrieval Sufficient?,Poster,Yes
+ARR-26,Chihsheng Jin; William Jurayj; William Gantt Walden,Robust Semantic Steganography with Large Language Models,Poster,No
+ARR-27,Yang Wu; Stefano Petrangeli; Ishita Dasgupta; Yu Shen,CamPilot: A Multi-Agent Cinematic Assistant for Camera-Controlled Movie Generation,Spotlight,Yes
+ARR-28,Dongryeol Lee; Weronika Łajewska; Leonardo Perelli; Saab Mansour,Data-Driven Personas for Survey Simulation: Insights into Simulation Alignment Across Data-Access Regimes,Poster,No
+ARR-29,Dennis Fucci; Andrea Bacciu; Dong Liu; Weronika Łajewska; Saab Mansour,Wiki-Talkie: Multilingual Benchmarking of Persona-Based Agents on Real-World Discussions,Poster,No
+ARR-31,Wanqing Psyche He; Midam Kim,Whose Repair? A Multi-Loop Diagnostic of Interactive Alignment in Human–LLM Conversation,Poster,Yes
+ARR-32,Hsuvas Borkakoty; Sebastian Pohl; Cheng Wang; Bei Chen; Yufang Hou,DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain,Poster,No

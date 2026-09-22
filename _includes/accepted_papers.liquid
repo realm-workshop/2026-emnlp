@@ -1,0 +1,109 @@
+{% assign accepted_papers = site.data.accepted_papers %}
+{% assign oral_papers = accepted_papers | where: "Decision", "Oral" %}
+{% assign spotlight_papers = accepted_papers | where: "Decision", "Spotlight" %}
+{% assign poster_archival = accepted_papers | where: "Decision", "Poster" | where: "Archival", "Yes" %}
+{% assign poster_nonarchival = accepted_papers | where: "Decision", "Poster" | where: "Archival", "No" %}
+{% assign poster_papers = accepted_papers | where: "Decision", "Poster" %}
+{% assign archival_papers = accepted_papers | where: "Archival", "Yes" %}
+{% assign nonarchival_papers = accepted_papers | where: "Archival", "No" %}
+{% assign accepted_count = accepted_papers | size %}
+{% assign oral_count = oral_papers | size %}
+{% assign spotlight_count = spotlight_papers | size %}
+
+<p>
+  We accepted {{ accepted_count }} papers in total: {{ oral_count }} oral papers (top 2%), {{ spotlight_count }} spotlight papers (top 6%), and {{ poster_papers | size }} poster papers.
+  Among the accepted papers, {{ nonarchival_papers | size }} were non-archival and {{ archival_papers | size }} were archival.
+</p>
+
+<ul style="margin-bottom: 2em;">
+  <li><a href="#oral-papers">Oral Papers</a></li>
+  <li><a href="#spotlight-papers">Spotlight Papers</a></li>
+  <li><a href="#posters">Posters</a></li>
+</ul>
+
+<h3 id="oral-papers" style="margin-top: 2em;">Oral Papers</h3>
+<div class="table-responsive">
+  <table>
+    <tbody>
+      {% for paper in oral_papers %}
+        <tr>
+          <td style="padding: 0.5em 0;">
+            <strong>{{ paper.Title }}</strong><br/>
+            <span style="font-style: italic;">
+              {% assign authors = paper.Authors | split: ";" %}
+              {% for author in authors %}
+                {{ author | strip }}{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </span><br/>
+            <span style="font-size: smaller;">({% if paper.Archival == "Yes" %}archival{% else %}non-archival{% endif %})</span>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<h3 id="spotlight-papers" style="margin-top: 2em;">Spotlight Papers</h3>
+<div class="table-responsive">
+  <table>
+    <tbody>
+      {% for paper in spotlight_papers %}
+        <tr>
+          <td style="padding: 0.5em 0;">
+            <strong>{{ paper.Title }}</strong><br/>
+            <span style="font-style: italic;">
+              {% assign authors = paper.Authors | split: ";" %}
+              {% for author in authors %}
+                {{ author | strip }}{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </span><br/>
+            <span style="font-size: smaller;">({% if paper.Archival == "Yes" %}archival{% else %}non-archival{% endif %})</span>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<h3 id="posters" style="margin-top: 2em;">Posters</h3>
+<h5 id="archival">Archival ({{ poster_archival | size }} papers)</h5>
+<div class="table-responsive">
+  <table>
+    <tbody>
+      {% for paper in poster_archival %}
+        <tr>
+          <td style="padding: 0.5em 0;">
+            <strong>{{ paper.Title }}</strong><br/>
+            <span style="font-style: italic;">
+              {% assign authors = paper.Authors | split: ";" %}
+              {% for author in authors %}
+                {{ author | strip }}{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </span>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<h5 id="non-archival" style="margin-top: 1.5em;">Non-archival ({{ poster_nonarchival | size }} papers)</h5>
+<div class="table-responsive">
+  <table>
+    <tbody>
+      {% for paper in poster_nonarchival %}
+        <tr>
+          <td style="padding: 0.5em 0;">
+            <strong>{{ paper.Title }}</strong><br/>
+            <span style="font-style: italic;">
+              {% assign authors = paper.Authors | split: ";" %}
+              {% for author in authors %}
+                {{ author | strip }}{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </span>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,10 @@
+---
+layout: page
+permalink: /accepted_papers/
+title: Accepted Papers
+description:
+nav: true
+nav_order: 3
+---
+
+{% include accepted_papers.liquid center=true %}
