@@ -9,7 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/2026-emnlp/";
     },
-  },{id: "books-the-godfather",
+  },{id: "nav-call-for-papers",
+          title: "Call For Papers",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/2026-emnlp/call_for_papers/";
+          },
+        },{id: "nav-accepted-papers",
+          title: "Accepted Papers",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/2026-emnlp/accepted_papers/";
+          },
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
