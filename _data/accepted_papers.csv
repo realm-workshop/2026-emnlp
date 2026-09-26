@@ -10,7 +10,7 @@ Submission ID,Authors,Title,Decision,Archival
 19,Jiameng Zhang,When Context Sharing Looks Better Than It Is: Evaluation Pitfalls in Multi-Agent Question Answering,Poster,No
 22,Lijuan Tang; Yuemeng Zheng,Measuring the Serving Stack Instead of the Model: Hidden Confounds in Local Tool-Use Evaluation,Poster,Yes
 25,Zelin Zhao; Bo Yuan; Yuchen Zhu; Jaemoo Choi; Yongxin Chen,RMA: an Agentic System for Research-Level Mathematical Problems,Poster,No
-26,Liang Nie; Hehua Zhang,When Is Agent Tool-Result Cache Reuse Actually Safe?,Poster,Yes
+26,Liang Nie; Hehua Zhang,When Is Agent Tool-Result Cache Reuse Actually Safe?,Poster,No
 29,Xiaoxuan Li; Bangbang Liu; Ying Zhao,Authentic but Not Neutral: Selective Evidence in LLM-Agent Leaderboards,Poster,Yes
 30,Arunabh Srivastava; Mohammad A. Khojastepour; Srimat Chakradhar; Sennur Ulukus,"GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI",Poster,Yes
 35,Chang Liu,Answer or Compute? Direct Inference vs. Code Generation for LLM Game-State Understanding in RTS Games,Poster,Yes
