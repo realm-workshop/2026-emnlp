@@ -18,7 +18,7 @@ Submission ID,Authors,Title,Decision,Archival
 38,Juntae Lee; Jihwan Bang; Seunghan Yang; Sungha Choi,Foundation First: Stabilizing SLM Agents via Pre-execution Logical Scaffolding,Poster,Yes
 40,Andrew Zhang; Chengzhan Li,Agent Step Value: Auditing Evaluation-Channel Sensitivity in Black-Box Agent Traces,Poster,Yes
 43,Peter Choi,Reads Are Not Free: Read-Budget-Aware Retrieval and Agent-as-Router for LLM Agents,Poster,No
-44,Prasannjeet Singh,PRISM: Bounded Autonomy for LLM Agents via Workflow Projection and Deterministic Consequence Boundaries,Poster,Yes
+44,Prasannjeet Singh,PRISM: Bounded Autonomy for LLM Agents via Workflow Projection and Deterministic Consequence Boundaries,Poster,No
 46,Sina Hajimiri; Masih Aminbeidokhti; Jose Dolz; Ismail Ben Ayed; Issam H. Laradji; Spandana Gella; Nicolas Gontier,Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents,Oral,No
 49,Zhiguo Tao; Linhan Li; Lifan Sun; Zichen Yuan,FUSE: Failure-Guided Scenario Synthesis and Weighted Refinement for LLM Function Calling,Poster,Yes
 50,Yifeng He; Yinzhe Zhao; Jicheng Wang; Hao Chen,Is Progressive Disclosure All You Need for Long-Context Agents?,Poster,Yes
