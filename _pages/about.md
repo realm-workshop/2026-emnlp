@@ -41,6 +41,13 @@ The REALM workshop will take place at the 2026 Conference on Empirical Methods i
 
 <p style="font-size: 1.2em">The workshop will be held on <strong>Thursday, October 29</strong>, from <strong>9:15am to 4:30pm</strong> in <strong>Room P1</strong>, in a <strong>hybrid</strong> format (in-person and online).</p>
 
+**Assigned poster boards:** Sections **6 and 7** · Boards **251–315**
+
+- **Board selection:** Use any available board within the assigned range.
+- **Setup:** Begin no earlier than 15 minutes before your session.
+- Posters left unattended at the end of a session may be removed. Staff and volunteers are not responsible for unattended items.
+- Poster presentations must conclude promptly at the scheduled end time.
+
 ### Call For Papers
 
 We invite submissions on research at the intersection of AI agents and LLMs. See the full **[Call for Papers]({{ '/call_for_papers/' | relative_url }})** for topics, submission guidelines, and important dates. Interested in reviewing? See **[Call for Reviewers]({{ '/call_for_papers/#call-for-reviewers' | relative_url }})** on the same page.

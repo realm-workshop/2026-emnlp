@@ -4,7 +4,7 @@ permalink: /schedule/
 title: Schedule
 description:
 nav: true
-nav_order: 4
+nav_order: 5
 _styles: |
   .poster-board-notice {
     margin: 0 0 1.5rem;
@@ -116,7 +116,9 @@ _styles: |
     </tr>
     <tr>
       <td class="py-2 px-2" style="vertical-align: top; white-space: nowrap; min-width: 110px;">12:00 - 12:30</td>
-      <td class="py-2 px-2">Invited Talk 2: <strong>Maria Brbić</strong></td>
+      <td class="py-2 px-2">Invited Talk 2: <strong>Maria Brbić</strong><br>
+        <em>AI Agents for Open-Ended Scientific Discovery</em>
+      </td>
     </tr>
     <tr>
       <td class="py-2 px-2" style="vertical-align: top; white-space: nowrap; min-width: 110px;">12:30 - 13:00</td>
@@ -136,11 +138,28 @@ _styles: |
     </tr>
     <tr>
       <td class="py-2 px-2" style="white-space: nowrap; min-width: 110px;">14:00 - 14:30</td>
-      <td class="py-2 px-2">Invited Talk 4: <strong>Graham Neubig</strong></td>
+      <td class="py-2 px-2">Invited Talk 4: <strong>Graham Neubig</strong><br>
+        <a class="talk-abstract-toggle" href="#invited-talk-4-abstract" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="invited-talk-4-abstract" title="Show or hide abstract"><span class="talk-abstract-icon" aria-hidden="true">▸</span>&nbsp;<em>Recursive Agent Optimization</em></a>
+        <div class="collapse" id="invited-talk-4-abstract">
+          <fieldset class="talk-abstract-box">
+            <legend>Abstract</legend>
+            <p class="mb-0">In this talk, I will introduce Recursive Agent Optimization (RAO), a reinforcement learning approach for training recursive agents: agents that can spawn and delegate sub-tasks to new instantiations of themselves recursively. Recursive agents implement an inference-time scaling algorithm that naturally allows agents to scale to longer contexts and generalize to more difficult problems via divide-and-conquer. RAO provides a method to train models to best take advantage of such recursive inference, teaching agents when and how to delegate and communicate. We find that recursive agents trained in this way enjoy better training efficiency, can scale to tasks that go beyond the model's context window, generalize to tasks much harder than the ones the agent was trained on, and can enjoy reduced wall-clock time compared to single-agent systems.</p>
+          </fieldset>
+        </div>
+      </td>
     </tr>
     <tr>
       <td class="py-2 px-2" style="vertical-align: top; white-space: nowrap; min-width: 110px;">14:30 - 15:00</td>
-      <td class="py-2 px-2">Invited Talk 5: <strong>Perouz Taslakian</strong></td>
+      <td class="py-2 px-2">Invited Talk 5: <strong>Perouz Taslakian</strong><br>
+        <a class="talk-abstract-toggle" href="#invited-talk-5-abstract" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="invited-talk-5-abstract" title="Show or hide abstract"><span class="talk-abstract-icon" aria-hidden="true">▸</span>&nbsp;<em>What Agents Reveal: When helpful agents share too much</em></a>
+        <div class="collapse" id="invited-talk-5-abstract">
+          <fieldset class="talk-abstract-box">
+            <legend>Abstract</legend>
+            <p>AI agents increasingly access our emails, calendars, and private data, search the web, and coordinate with other agents on our behalf. Each action involves a decision about what information to reveal, to whom, and for what purpose. Yet privacy failures often arise not from malicious attacks, but from helpful agents sharing information in the wrong context.</p>
+            <p class="mb-0">In this talk, I frame agent privacy through the lens of contextual integrity: information flows should respect the norms of the contexts in which they occur. I will present three benchmarks that expose distinct gaps in current evaluations. <strong>MosaicLeaks</strong> reveals how seemingly harmless tool calls can collectively leak sensitive information. <strong>PiSAs</strong> examines privacy in shared agent environments, where leaks can occur through agent communication and memory. <strong>PrivacyAlign</strong> uses human judgments to evaluate and train agents to avoid both oversharing and unnecessary withholding. Together, these benchmarks offer a practical path toward building agents that are both capable and privacy-aware.</p>
+          </fieldset>
+        </div>
+      </td>
     </tr>
     <tr>
       <td class="py-2 px-2" style="vertical-align: top; white-space: nowrap; min-width: 110px;">15:00 - 15:30</td>
