@@ -139,9 +139,11 @@ _styles: |
     <h2 id="vishrav-chaudhary-name"><a href="https://www.linkedin.com/in/vishrav">Vishrav Chaudhary</a></h2>
     <p class="mb-1">Meta Superintelligence Labs</p>
     <p class="text-muted">15:00–15:30</p>
-    <p class="text-muted">Talk title forthcoming.</p>
+    <p class="invited-talk-title">Evaluating Multilingual AI Agents as End-to-End Systems</p>
+    <h3>Abstract</h3>
+    <p>AI agents are increasingly expected to plan, search, use tools, and recover from errors for users across languages and regions. Yet most agent benchmarks remain English-first, while translated evaluations often miss failures involving local entities, conventions, tools, and cultural context. This talk surveys emerging multilingual agentic benchmarks, examines where language-dependent failures arise, and discusses limitations in translation, localization, and evaluator validity. The motivation is to develop more diagnostic evaluations that separate linguistic competence from planning, tool execution, retrieval, recovery, and real-world task success.</p>
     <h3>Bio</h3>
-    <p class="text-muted">Bio forthcoming.</p>
+    <p>Vishrav Chaudhary is a Research Scientist at Meta Superintelligence Labs working on post-training research and reasoning capabilities in large and small LMs. His research spans efficient multilingual modeling, reinforcement learning from human feedback, and cross-lingual reasoning. Vishrav has over a decade of experience leading major multilingual modeling efforts at Meta, Microsoft Turing, and FAIR, including contributions to the LLaMA-4, Phi3, and Phi4 model families. He has delivered invited tutorials and workshops at ACL and NAACL (including the ACL 2023 tutorial on Multilingual LLMs) and served as Area Chair for multiple ACL conferences.</p>
   </div>
 </section>
 

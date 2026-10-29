@@ -163,7 +163,15 @@ _styles: |
     </tr>
     <tr>
       <td class="py-2 px-2" style="vertical-align: top; white-space: nowrap; min-width: 110px;">15:00 - 15:30</td>
-      <td class="py-2 px-2">Invited Talk 6: <strong>Vishrav Chaudhary</strong></td>
+      <td class="py-2 px-2">Invited Talk 6: <strong>Vishrav Chaudhary</strong><br>
+        <a class="talk-abstract-toggle" href="#invited-talk-6-abstract" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="invited-talk-6-abstract" title="Show or hide abstract"><span class="talk-abstract-icon" aria-hidden="true">▸</span>&nbsp;<em>Evaluating Multilingual AI Agents as End-to-End Systems</em></a>
+        <div class="collapse" id="invited-talk-6-abstract">
+          <fieldset class="talk-abstract-box">
+            <legend>Abstract</legend>
+            <p class="mb-0">AI agents are increasingly expected to plan, search, use tools, and recover from errors for users across languages and regions. Yet most agent benchmarks remain English-first, while translated evaluations often miss failures involving local entities, conventions, tools, and cultural context. This talk surveys emerging multilingual agentic benchmarks, examines where language-dependent failures arise, and discusses limitations in translation, localization, and evaluator validity. The motivation is to develop more diagnostic evaluations that separate linguistic competence from planning, tool execution, retrieval, recovery, and real-world task success.</p>
+          </fieldset>
+        </div>
+      </td>
     </tr>
     <tr style="background-color: #e9ecef;">
       <td class="py-2 px-2" style="white-space: nowrap; min-width: 110px;"><strong>15:30 - 16:30</strong></td>
