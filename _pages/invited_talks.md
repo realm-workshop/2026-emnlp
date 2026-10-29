@@ -146,4 +146,3 @@ _styles: |
     <p>Vishrav Chaudhary is a Research Scientist at Meta Superintelligence Labs working on post-training research and reasoning capabilities in large and small LMs. His research spans efficient multilingual modeling, reinforcement learning from human feedback, and cross-lingual reasoning. Vishrav has over a decade of experience leading major multilingual modeling efforts at Meta, Microsoft Turing, and FAIR, including contributions to the LLaMA-4, Phi3, and Phi4 model families. He has delivered invited tutorials and workshops at ACL and NAACL (including the ACL 2023 tutorial on Multilingual LLMs) and served as Area Chair for multiple ACL conferences.</p>
   </div>
 </section>
-
